@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mpis"
+version = "0.1.0"
+description = "Market Psychology Intelligence System - quantitative trading research platform skeleton"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+  "pandas",
+  "numpy",
+  "streamlit",
+  "plotly",
+  "scipy",
+  "scikit-learn",
+  "pyyaml",
+  "requests",
+]
+
+[project.optional-dependencies]
+dev = ["pytest", "ruff", "black", "pre-commit"]
+
+[tool.black]
+line-length = 88

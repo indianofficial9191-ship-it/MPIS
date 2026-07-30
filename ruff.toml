@@ -1,0 +1,5 @@
+[tool.ruff]
+line-length = 88
+select = ["E", "F", "W", "C", "N", "B"]
+extend-ignore = ["E203"]
+exclude = [".git", "__pycache__", "build", "dist", "venv"]
