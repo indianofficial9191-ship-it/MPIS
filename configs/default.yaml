@@ -1,0 +1,10 @@
+version: "0.1.0"
+environment: development
+profile: nifty
+mode: replay
+paths:
+  data: data
+  logs: logs
+  reports: reports
+  cache: data/cache
+  configs: configs

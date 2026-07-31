@@ -1,0 +1,3 @@
+environment: development
+paths:
+  logs: logs/dev

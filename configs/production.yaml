@@ -1,0 +1,4 @@
+environment: production
+paths:
+  logs: logs/prod
+  cache: data/cache
