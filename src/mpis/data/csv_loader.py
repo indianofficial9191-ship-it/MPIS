@@ -81,11 +81,25 @@ class CSVLoader:
             raise DataError("OHLC values must not be missing")
 
         dataframe = dataframe.copy()
-        dataframe["timestamp"] = pd.to_datetime(
-            dataframe["date"].astype(str) + " " + dataframe["time"].astype(str),
-            format="%Y-%m-%d %H:%M:%S",
-            errors="raise",
-        )
+        datetime_string = dataframe["date"].astype(str) + " " + dataframe["time"].astype(str)
+        try:
+            dataframe["timestamp"] = pd.to_datetime(
+                datetime_string,
+                format="%Y-%m-%d %H:%M:%S",
+                errors="raise",
+            )
+        except ValueError:
+            dataframe["timestamp"] = pd.to_datetime(
+                datetime_string,
+                format="%d-%m-%Y %H:%M:%S",
+                errors="raise",
+            )
+
+        if "volume" not in dataframe.columns:
+            dataframe["volume"] = 0.0
+        if "oi" not in dataframe.columns:
+            dataframe["oi"] = 0.0
+
         dataframe = dataframe.sort_values("timestamp", kind="mergesort")
 
         if dataframe["timestamp"].duplicated().any():
