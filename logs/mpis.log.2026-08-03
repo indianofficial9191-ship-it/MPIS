@@ -1,0 +1,1249 @@
+2026-08-03 15:06:35 | INFO | mpis.data.csv_loader | load | CSV loaded
+2026-08-03 15:06:35 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 15:06:35 | INFO | mpis.data.csv_loader | load | Replay buffer created
+2026-08-03 15:06:35 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 15:06:35 | INFO | mpis.data.buffer | next | Buffer advanced to next candle
+2026-08-03 15:06:35 | INFO | mpis.data.buffer | previous | Buffer moved to previous candle
+2026-08-03 15:06:35 | INFO | mpis.data.buffer | seek | Buffer seeked
+2026-08-03 15:06:35 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 15:06:35 | INFO | mpis.institutional.analyzer | analyze | Starting institutional analysis
+2026-08-03 15:06:35 | INFO | mpis.institutional.analyzer | analyze | Institutional analysis complete
+2026-08-03 15:06:35 | INFO | mpis.institutional.service | from_dataframe | Parsing DataFrame into participant records
+2026-08-03 15:06:35 | INFO | mpis.institutional.service | analyze | Analyzing participant records
+2026-08-03 15:06:35 | INFO | mpis.institutional.analyzer | analyze | Starting institutional analysis
+2026-08-03 15:06:35 | INFO | mpis.institutional.analyzer | analyze | Institutional analysis complete
+2026-08-03 15:06:35 | INFO | mpis.institutional.service | from_csv | Loading CSV file
+2026-08-03 15:06:36 | INFO | mpis.institutional.service | from_dataframe | Parsing DataFrame into participant records
+2026-08-03 15:06:36 | INFO | mpis.institutional.service | analyze | Analyzing participant records
+2026-08-03 15:06:36 | INFO | mpis.institutional.analyzer | analyze | Starting institutional analysis
+2026-08-03 15:06:36 | INFO | mpis.institutional.analyzer | analyze | Institutional analysis complete
+2026-08-03 15:06:36 | INFO | mpis.institutional.service | from_dataframe | Parsing DataFrame into participant records
+2026-08-03 15:06:36 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 15:06:36 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 15:06:36 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 15:06:36 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 15:06:36 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 15:06:36 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 15:06:36 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 15:06:36 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 15:06:36 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 15:06:36 | INFO | mpis.options.service | from_dataframe | Parsing DataFrame into participant OI records
+2026-08-03 15:06:36 | INFO | mpis.options.service | analyze | Analyzing participant OI records
+2026-08-03 15:06:36 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 15:06:36 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 15:06:36 | INFO | mpis.options.oi_analyzer | analyze | Open interest analysis complete
+2026-08-03 15:06:36 | INFO | mpis.options.service | from_csv | Loading CSV file for OI service
+2026-08-03 15:06:36 | INFO | mpis.options.service | from_dataframe | Parsing DataFrame into participant OI records
+2026-08-03 15:06:36 | INFO | mpis.options.service | analyze | Analyzing participant OI records
+2026-08-03 15:06:36 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 15:06:36 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 15:06:36 | INFO | mpis.options.oi_analyzer | analyze | Open interest analysis complete
+2026-08-03 15:06:36 | INFO | mpis.options.service | from_dataframe | Parsing DataFrame into participant OI records
+2026-08-03 15:06:36 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 15:06:36 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 15:06:36 | INFO | mpis.options.service | from_dataframe | Parsing DataFrame into participant OI records
+2026-08-03 15:06:36 | INFO | mpis.options.service | analyze | Analyzing participant OI records
+2026-08-03 15:06:36 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 15:06:36 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 15:06:36 | INFO | mpis.options.oi_analyzer | analyze | Open interest analysis complete
+2026-08-03 15:06:36 | INFO | mpis.options.service | from_csv | Loading CSV file for OI service
+2026-08-03 15:06:36 | INFO | mpis.options.service | from_dataframe | Parsing DataFrame into participant OI records
+2026-08-03 15:06:36 | INFO | mpis.options.service | analyze | Analyzing participant OI records
+2026-08-03 15:06:36 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 15:06:36 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 15:06:36 | INFO | mpis.options.oi_analyzer | analyze | Open interest analysis complete
+2026-08-03 15:06:36 | INFO | mpis.options.service | from_dataframe | Parsing DataFrame into participant OI records
+2026-08-03 15:06:36 | INFO | mpis.options.service | from_dataframe | Parsing DataFrame into participant OI records
+2026-08-03 15:06:36 | INFO | mpis.options.service | analyze | Analyzing participant OI records
+2026-08-03 15:06:36 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 15:06:36 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 15:06:36 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 15:06:36 | INFO | mpis.options.oi_analyzer | analyze | Open interest analysis complete
+2026-08-03 15:06:36 | INFO | mpis.options.service | from_dataframe | Parsing DataFrame into participant OI records
+2026-08-03 15:06:36 | INFO | mpis.options.service | analyze | Analyzing participant OI records
+2026-08-03 15:06:36 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 15:06:36 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 15:06:36 | INFO | mpis.options.oi_analyzer | analyze | Open interest analysis complete
+2026-08-03 15:06:36 | INFO | mpis.data.csv_loader | load | CSV loaded
+2026-08-03 15:06:36 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 15:06:36 | INFO | mpis.data.csv_loader | load | Replay buffer created
+2026-08-03 15:06:36 | INFO | mpis.replay.engine | initialize | Replay engine initialized
+2026-08-03 15:06:36 | INFO | mpis.replay.engine | log_replay_event | Replay event: Replay started
+2026-08-03 15:06:36 | INFO | mpis.replay.engine | log_replay_event | Replay event: Replay paused
+2026-08-03 15:06:36 | INFO | mpis.replay.engine | log_replay_event | Replay event: Replay resumed
+2026-08-03 15:06:36 | INFO | mpis.replay.engine | log_replay_event | Replay event: Replay stopped
+2026-08-03 15:06:36 | INFO | mpis.data.csv_loader | load | CSV loaded
+2026-08-03 15:06:36 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 15:06:36 | INFO | mpis.data.csv_loader | load | Replay buffer created
+2026-08-03 15:06:36 | INFO | mpis.replay.engine | initialize | Replay engine initialized
+2026-08-03 15:06:36 | INFO | mpis.replay.engine | log_replay_event | Replay event: Replay started
+2026-08-03 15:06:36 | INFO | mpis.replay.engine | log_replay_event | Replay event: Replay step
+2026-08-03 15:06:36 | INFO | mpis.data.csv_loader | load | CSV loaded
+2026-08-03 15:06:36 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 15:06:36 | INFO | mpis.data.csv_loader | load | Replay buffer created
+2026-08-03 15:06:36 | INFO | mpis.replay.engine | initialize | Replay engine initialized
+2026-08-03 15:06:36 | INFO | mpis.replay.engine | log_replay_event | Replay event: Replay started
+2026-08-03 15:06:36 | DEBUG | mpis.replay.callbacks | register | Callback registered
+2026-08-03 15:06:36 | INFO | mpis.replay.engine | log_replay_event | Replay event: Replay step
+2026-08-03 15:06:36 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 15:06:36 | INFO | mpis.replay.engine | initialize | Replay engine initialized
+2026-08-03 15:06:36 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 15:06:36 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 15:06:36 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 15:06:36 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 15:06:36 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 15:11:19 | INFO | mpis.data.csv_loader | load | CSV loaded
+2026-08-03 15:11:19 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 15:11:19 | INFO | mpis.data.csv_loader | load | Replay buffer created
+2026-08-03 15:11:19 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 15:11:19 | INFO | mpis.data.buffer | next | Buffer advanced to next candle
+2026-08-03 15:11:19 | INFO | mpis.data.buffer | previous | Buffer moved to previous candle
+2026-08-03 15:11:19 | INFO | mpis.data.buffer | seek | Buffer seeked
+2026-08-03 15:11:19 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 15:11:19 | INFO | mpis.institutional.analyzer | analyze | Starting institutional analysis
+2026-08-03 15:11:19 | INFO | mpis.institutional.analyzer | analyze | Institutional analysis complete
+2026-08-03 15:11:19 | INFO | mpis.institutional.service | from_dataframe | Parsing DataFrame into participant records
+2026-08-03 15:11:19 | INFO | mpis.institutional.service | analyze | Analyzing participant records
+2026-08-03 15:11:19 | INFO | mpis.institutional.analyzer | analyze | Starting institutional analysis
+2026-08-03 15:11:19 | INFO | mpis.institutional.analyzer | analyze | Institutional analysis complete
+2026-08-03 15:11:19 | INFO | mpis.institutional.service | from_csv | Loading CSV file
+2026-08-03 15:11:19 | INFO | mpis.institutional.service | from_dataframe | Parsing DataFrame into participant records
+2026-08-03 15:11:19 | INFO | mpis.institutional.service | analyze | Analyzing participant records
+2026-08-03 15:11:19 | INFO | mpis.institutional.analyzer | analyze | Starting institutional analysis
+2026-08-03 15:11:19 | INFO | mpis.institutional.analyzer | analyze | Institutional analysis complete
+2026-08-03 15:11:19 | INFO | mpis.institutional.service | from_dataframe | Parsing DataFrame into participant records
+2026-08-03 15:11:19 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 15:11:19 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 15:11:19 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 15:11:19 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 15:11:19 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 15:11:19 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 15:11:19 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 15:11:19 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 15:11:19 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 15:11:19 | INFO | mpis.options.service | from_dataframe | Parsing DataFrame into participant OI records
+2026-08-03 15:11:19 | INFO | mpis.options.service | analyze | Analyzing participant OI records
+2026-08-03 15:11:19 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 15:11:19 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 15:11:19 | INFO | mpis.options.oi_analyzer | analyze | Open interest analysis complete
+2026-08-03 15:11:19 | INFO | mpis.options.service | from_csv | Loading CSV file for OI service
+2026-08-03 15:11:19 | INFO | mpis.options.service | from_dataframe | Parsing DataFrame into participant OI records
+2026-08-03 15:11:19 | INFO | mpis.options.service | analyze | Analyzing participant OI records
+2026-08-03 15:11:19 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 15:11:19 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 15:11:19 | INFO | mpis.options.oi_analyzer | analyze | Open interest analysis complete
+2026-08-03 15:11:19 | INFO | mpis.options.service | from_dataframe | Parsing DataFrame into participant OI records
+2026-08-03 15:11:19 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 15:11:19 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 15:11:19 | INFO | mpis.options.service | from_dataframe | Parsing DataFrame into participant OI records
+2026-08-03 15:11:19 | INFO | mpis.options.service | analyze | Analyzing participant OI records
+2026-08-03 15:11:19 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 15:11:19 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 15:11:19 | INFO | mpis.options.oi_analyzer | analyze | Open interest analysis complete
+2026-08-03 15:11:20 | INFO | mpis.options.service | from_csv | Loading CSV file for OI service
+2026-08-03 15:11:20 | INFO | mpis.options.service | from_dataframe | Parsing DataFrame into participant OI records
+2026-08-03 15:11:20 | INFO | mpis.options.service | analyze | Analyzing participant OI records
+2026-08-03 15:11:20 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 15:11:20 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 15:11:20 | INFO | mpis.options.oi_analyzer | analyze | Open interest analysis complete
+2026-08-03 15:11:20 | INFO | mpis.options.service | from_dataframe | Parsing DataFrame into participant OI records
+2026-08-03 15:11:20 | INFO | mpis.options.service | from_dataframe | Parsing DataFrame into participant OI records
+2026-08-03 15:11:20 | INFO | mpis.options.service | analyze | Analyzing participant OI records
+2026-08-03 15:11:20 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 15:11:20 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 15:11:20 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 15:11:20 | INFO | mpis.options.oi_analyzer | analyze | Open interest analysis complete
+2026-08-03 15:11:20 | INFO | mpis.options.service | from_dataframe | Parsing DataFrame into participant OI records
+2026-08-03 15:11:20 | INFO | mpis.options.service | analyze | Analyzing participant OI records
+2026-08-03 15:11:20 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 15:11:20 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 15:11:20 | INFO | mpis.options.oi_analyzer | analyze | Open interest analysis complete
+2026-08-03 15:11:20 | INFO | mpis.data.csv_loader | load | CSV loaded
+2026-08-03 15:11:20 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 15:11:20 | INFO | mpis.data.csv_loader | load | Replay buffer created
+2026-08-03 15:11:20 | INFO | mpis.replay.engine | initialize | Replay engine initialized
+2026-08-03 15:11:20 | INFO | mpis.replay.engine | log_replay_event | Replay event: Replay started
+2026-08-03 15:11:20 | INFO | mpis.replay.engine | log_replay_event | Replay event: Replay paused
+2026-08-03 15:11:20 | INFO | mpis.replay.engine | log_replay_event | Replay event: Replay resumed
+2026-08-03 15:11:20 | INFO | mpis.replay.engine | log_replay_event | Replay event: Replay stopped
+2026-08-03 15:11:20 | INFO | mpis.data.csv_loader | load | CSV loaded
+2026-08-03 15:11:20 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 15:11:20 | INFO | mpis.data.csv_loader | load | Replay buffer created
+2026-08-03 15:11:20 | INFO | mpis.replay.engine | initialize | Replay engine initialized
+2026-08-03 15:11:20 | INFO | mpis.replay.engine | log_replay_event | Replay event: Replay started
+2026-08-03 15:11:20 | INFO | mpis.replay.engine | log_replay_event | Replay event: Replay step
+2026-08-03 15:11:20 | INFO | mpis.data.csv_loader | load | CSV loaded
+2026-08-03 15:11:20 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 15:11:20 | INFO | mpis.data.csv_loader | load | Replay buffer created
+2026-08-03 15:11:20 | INFO | mpis.replay.engine | initialize | Replay engine initialized
+2026-08-03 15:11:20 | INFO | mpis.replay.engine | log_replay_event | Replay event: Replay started
+2026-08-03 15:11:20 | DEBUG | mpis.replay.callbacks | register | Callback registered
+2026-08-03 15:11:20 | INFO | mpis.replay.engine | log_replay_event | Replay event: Replay step
+2026-08-03 15:11:20 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 15:11:20 | INFO | mpis.replay.engine | initialize | Replay engine initialized
+2026-08-03 15:11:20 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 15:11:20 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 15:11:20 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 15:11:20 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 15:11:20 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 15:32:18 | INFO | mpis.data.csv_loader | load | CSV loaded
+2026-08-03 15:32:18 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 15:32:18 | INFO | mpis.data.csv_loader | load | Replay buffer created
+2026-08-03 15:32:18 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 15:32:18 | INFO | mpis.data.buffer | next | Buffer advanced to next candle
+2026-08-03 15:32:18 | INFO | mpis.data.buffer | previous | Buffer moved to previous candle
+2026-08-03 15:32:18 | INFO | mpis.data.buffer | seek | Buffer seeked
+2026-08-03 15:32:18 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 15:32:18 | INFO | mpis.institutional.analyzer | analyze | Starting institutional analysis
+2026-08-03 15:32:18 | INFO | mpis.institutional.analyzer | analyze | Institutional analysis complete
+2026-08-03 15:32:18 | INFO | mpis.institutional.service | from_dataframe | Parsing DataFrame into participant records
+2026-08-03 15:32:18 | INFO | mpis.institutional.service | analyze | Analyzing participant records
+2026-08-03 15:32:18 | INFO | mpis.institutional.analyzer | analyze | Starting institutional analysis
+2026-08-03 15:32:18 | INFO | mpis.institutional.analyzer | analyze | Institutional analysis complete
+2026-08-03 15:32:18 | INFO | mpis.institutional.service | from_csv | Loading CSV file
+2026-08-03 15:32:18 | INFO | mpis.institutional.service | from_dataframe | Parsing DataFrame into participant records
+2026-08-03 15:32:18 | INFO | mpis.institutional.service | analyze | Analyzing participant records
+2026-08-03 15:32:18 | INFO | mpis.institutional.analyzer | analyze | Starting institutional analysis
+2026-08-03 15:32:18 | INFO | mpis.institutional.analyzer | analyze | Institutional analysis complete
+2026-08-03 15:32:18 | INFO | mpis.institutional.service | from_dataframe | Parsing DataFrame into participant records
+2026-08-03 15:32:18 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 15:32:18 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 15:32:18 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 15:32:18 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 15:32:18 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 15:32:18 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 15:32:18 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 15:32:18 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 15:32:18 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 15:32:18 | INFO | mpis.options.service | from_dataframe | Parsing DataFrame into participant OI records
+2026-08-03 15:32:18 | INFO | mpis.options.service | analyze | Analyzing participant OI records
+2026-08-03 15:32:18 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 15:32:18 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 15:32:18 | INFO | mpis.options.oi_analyzer | analyze | Open interest analysis complete
+2026-08-03 15:32:18 | INFO | mpis.options.service | from_csv | Loading CSV file for OI service
+2026-08-03 15:32:19 | INFO | mpis.options.service | from_dataframe | Parsing DataFrame into participant OI records
+2026-08-03 15:32:19 | INFO | mpis.options.service | analyze | Analyzing participant OI records
+2026-08-03 15:32:19 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 15:32:19 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 15:32:19 | INFO | mpis.options.oi_analyzer | analyze | Open interest analysis complete
+2026-08-03 15:32:19 | INFO | mpis.options.service | from_dataframe | Parsing DataFrame into participant OI records
+2026-08-03 15:32:19 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 15:32:19 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 15:32:19 | INFO | mpis.options.service | from_dataframe | Parsing DataFrame into participant OI records
+2026-08-03 15:32:19 | INFO | mpis.options.service | analyze | Analyzing participant OI records
+2026-08-03 15:32:19 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 15:32:19 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 15:32:19 | INFO | mpis.options.oi_analyzer | analyze | Open interest analysis complete
+2026-08-03 15:32:19 | INFO | mpis.options.service | from_csv | Loading CSV file for OI service
+2026-08-03 15:32:19 | INFO | mpis.options.service | from_dataframe | Parsing DataFrame into participant OI records
+2026-08-03 15:32:19 | INFO | mpis.options.service | analyze | Analyzing participant OI records
+2026-08-03 15:32:19 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 15:32:19 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 15:32:19 | INFO | mpis.options.oi_analyzer | analyze | Open interest analysis complete
+2026-08-03 15:32:19 | INFO | mpis.options.service | from_dataframe | Parsing DataFrame into participant OI records
+2026-08-03 15:32:19 | INFO | mpis.options.service | from_dataframe | Parsing DataFrame into participant OI records
+2026-08-03 15:32:19 | INFO | mpis.options.service | analyze | Analyzing participant OI records
+2026-08-03 15:32:19 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 15:32:19 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 15:32:19 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 15:32:19 | INFO | mpis.options.oi_analyzer | analyze | Open interest analysis complete
+2026-08-03 15:32:19 | INFO | mpis.options.service | from_dataframe | Parsing DataFrame into participant OI records
+2026-08-03 15:32:19 | INFO | mpis.options.service | analyze | Analyzing participant OI records
+2026-08-03 15:32:19 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 15:32:19 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 15:32:19 | INFO | mpis.options.oi_analyzer | analyze | Open interest analysis complete
+2026-08-03 15:32:19 | INFO | mpis.data.csv_loader | load | CSV loaded
+2026-08-03 15:32:19 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 15:32:19 | INFO | mpis.data.csv_loader | load | Replay buffer created
+2026-08-03 15:32:19 | INFO | mpis.replay.engine | initialize | Replay engine initialized
+2026-08-03 15:32:19 | INFO | mpis.replay.engine | log_replay_event | Replay event: Replay started
+2026-08-03 15:32:19 | INFO | mpis.replay.engine | log_replay_event | Replay event: Replay paused
+2026-08-03 15:32:19 | INFO | mpis.replay.engine | log_replay_event | Replay event: Replay resumed
+2026-08-03 15:32:19 | INFO | mpis.replay.engine | log_replay_event | Replay event: Replay stopped
+2026-08-03 15:32:19 | INFO | mpis.data.csv_loader | load | CSV loaded
+2026-08-03 15:32:19 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 15:32:19 | INFO | mpis.data.csv_loader | load | Replay buffer created
+2026-08-03 15:32:19 | INFO | mpis.replay.engine | initialize | Replay engine initialized
+2026-08-03 15:32:19 | INFO | mpis.replay.engine | log_replay_event | Replay event: Replay started
+2026-08-03 15:32:19 | INFO | mpis.replay.engine | log_replay_event | Replay event: Replay step
+2026-08-03 15:32:19 | INFO | mpis.data.csv_loader | load | CSV loaded
+2026-08-03 15:32:19 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 15:32:19 | INFO | mpis.data.csv_loader | load | Replay buffer created
+2026-08-03 15:32:19 | INFO | mpis.replay.engine | initialize | Replay engine initialized
+2026-08-03 15:32:19 | INFO | mpis.replay.engine | log_replay_event | Replay event: Replay started
+2026-08-03 15:32:19 | DEBUG | mpis.replay.callbacks | register | Callback registered
+2026-08-03 15:32:19 | INFO | mpis.replay.engine | log_replay_event | Replay event: Replay step
+2026-08-03 15:32:19 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 15:32:19 | INFO | mpis.replay.engine | initialize | Replay engine initialized
+2026-08-03 15:32:19 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 15:32:19 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 15:32:19 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 15:32:19 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 15:32:19 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 15:55:46 | INFO | mpis.data.csv_loader | load | CSV loaded
+2026-08-03 15:55:46 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 15:55:46 | INFO | mpis.data.csv_loader | load | Replay buffer created
+2026-08-03 15:55:46 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 15:55:46 | INFO | mpis.data.buffer | next | Buffer advanced to next candle
+2026-08-03 15:55:46 | INFO | mpis.data.buffer | previous | Buffer moved to previous candle
+2026-08-03 15:55:46 | INFO | mpis.data.buffer | seek | Buffer seeked
+2026-08-03 15:55:46 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 15:55:46 | INFO | mpis.institutional.analyzer | analyze | Starting institutional analysis
+2026-08-03 15:55:46 | INFO | mpis.institutional.analyzer | analyze | Institutional analysis complete
+2026-08-03 15:55:46 | INFO | mpis.institutional.service | from_dataframe | Parsing DataFrame into participant records
+2026-08-03 15:55:46 | INFO | mpis.institutional.service | analyze | Analyzing participant records
+2026-08-03 15:55:46 | INFO | mpis.institutional.analyzer | analyze | Starting institutional analysis
+2026-08-03 15:55:46 | INFO | mpis.institutional.analyzer | analyze | Institutional analysis complete
+2026-08-03 15:55:46 | INFO | mpis.institutional.service | from_csv | Loading CSV file
+2026-08-03 15:55:46 | INFO | mpis.institutional.service | from_dataframe | Parsing DataFrame into participant records
+2026-08-03 15:55:46 | INFO | mpis.institutional.service | analyze | Analyzing participant records
+2026-08-03 15:55:46 | INFO | mpis.institutional.analyzer | analyze | Starting institutional analysis
+2026-08-03 15:55:46 | INFO | mpis.institutional.analyzer | analyze | Institutional analysis complete
+2026-08-03 15:55:46 | INFO | mpis.institutional.service | from_dataframe | Parsing DataFrame into participant records
+2026-08-03 15:55:47 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 15:55:47 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 15:55:47 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 15:55:47 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 15:55:47 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 15:55:47 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 15:55:47 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 15:55:47 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 15:55:47 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 15:55:47 | INFO | mpis.options.service | from_dataframe | Parsing DataFrame into participant OI records
+2026-08-03 15:55:47 | INFO | mpis.options.service | analyze | Analyzing participant OI records
+2026-08-03 15:55:47 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 15:55:47 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 15:55:47 | INFO | mpis.options.oi_analyzer | analyze | Open interest analysis complete
+2026-08-03 15:55:47 | INFO | mpis.options.service | from_csv | Loading CSV file for OI service
+2026-08-03 15:55:47 | INFO | mpis.options.service | from_dataframe | Parsing DataFrame into participant OI records
+2026-08-03 15:55:47 | INFO | mpis.options.service | analyze | Analyzing participant OI records
+2026-08-03 15:55:47 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 15:55:47 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 15:55:47 | INFO | mpis.options.oi_analyzer | analyze | Open interest analysis complete
+2026-08-03 15:55:47 | INFO | mpis.options.service | from_dataframe | Parsing DataFrame into participant OI records
+2026-08-03 15:55:47 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 15:55:47 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 15:55:47 | INFO | mpis.options.service | from_dataframe | Parsing DataFrame into participant OI records
+2026-08-03 15:55:47 | INFO | mpis.options.service | analyze | Analyzing participant OI records
+2026-08-03 15:55:47 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 15:55:47 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 15:55:47 | INFO | mpis.options.oi_analyzer | analyze | Open interest analysis complete
+2026-08-03 15:55:47 | INFO | mpis.options.service | from_csv | Loading CSV file for OI service
+2026-08-03 15:55:47 | INFO | mpis.options.service | from_dataframe | Parsing DataFrame into participant OI records
+2026-08-03 15:55:47 | INFO | mpis.options.service | analyze | Analyzing participant OI records
+2026-08-03 15:55:47 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 15:55:47 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 15:55:47 | INFO | mpis.options.oi_analyzer | analyze | Open interest analysis complete
+2026-08-03 15:55:47 | INFO | mpis.options.service | from_dataframe | Parsing DataFrame into participant OI records
+2026-08-03 15:55:47 | INFO | mpis.options.service | from_dataframe | Parsing DataFrame into participant OI records
+2026-08-03 15:55:47 | INFO | mpis.options.service | analyze | Analyzing participant OI records
+2026-08-03 15:55:47 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 15:55:47 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 15:55:47 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 15:55:47 | INFO | mpis.options.oi_analyzer | analyze | Open interest analysis complete
+2026-08-03 15:55:47 | INFO | mpis.options.service | from_dataframe | Parsing DataFrame into participant OI records
+2026-08-03 15:55:47 | INFO | mpis.options.service | analyze | Analyzing participant OI records
+2026-08-03 15:55:47 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 15:55:47 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 15:55:47 | INFO | mpis.options.oi_analyzer | analyze | Open interest analysis complete
+2026-08-03 15:55:47 | INFO | mpis.data.csv_loader | load | CSV loaded
+2026-08-03 15:55:47 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 15:55:47 | INFO | mpis.data.csv_loader | load | Replay buffer created
+2026-08-03 15:55:47 | INFO | mpis.replay.engine | initialize | Replay engine initialized
+2026-08-03 15:55:47 | INFO | mpis.replay.engine | log_replay_event | Replay event: Replay started
+2026-08-03 15:55:47 | INFO | mpis.replay.engine | log_replay_event | Replay event: Replay paused
+2026-08-03 15:55:47 | INFO | mpis.replay.engine | log_replay_event | Replay event: Replay resumed
+2026-08-03 15:55:47 | INFO | mpis.replay.engine | log_replay_event | Replay event: Replay stopped
+2026-08-03 15:55:47 | INFO | mpis.data.csv_loader | load | CSV loaded
+2026-08-03 15:55:47 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 15:55:47 | INFO | mpis.data.csv_loader | load | Replay buffer created
+2026-08-03 15:55:47 | INFO | mpis.replay.engine | initialize | Replay engine initialized
+2026-08-03 15:55:47 | INFO | mpis.replay.engine | log_replay_event | Replay event: Replay started
+2026-08-03 15:55:47 | INFO | mpis.replay.engine | log_replay_event | Replay event: Replay step
+2026-08-03 15:55:47 | INFO | mpis.data.csv_loader | load | CSV loaded
+2026-08-03 15:55:47 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 15:55:47 | INFO | mpis.data.csv_loader | load | Replay buffer created
+2026-08-03 15:55:47 | INFO | mpis.replay.engine | initialize | Replay engine initialized
+2026-08-03 15:55:47 | INFO | mpis.replay.engine | log_replay_event | Replay event: Replay started
+2026-08-03 15:55:47 | DEBUG | mpis.replay.callbacks | register | Callback registered
+2026-08-03 15:55:47 | INFO | mpis.replay.engine | log_replay_event | Replay event: Replay step
+2026-08-03 15:55:47 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 15:55:47 | INFO | mpis.replay.engine | initialize | Replay engine initialized
+2026-08-03 15:55:47 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 15:55:47 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 15:55:47 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 15:55:47 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 15:55:47 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 16:00:20 | INFO | mpis.data.csv_loader | load | CSV loaded
+2026-08-03 16:00:20 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 16:00:20 | INFO | mpis.data.csv_loader | load | Replay buffer created
+2026-08-03 16:00:20 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 16:00:20 | INFO | mpis.data.buffer | next | Buffer advanced to next candle
+2026-08-03 16:00:20 | INFO | mpis.data.buffer | previous | Buffer moved to previous candle
+2026-08-03 16:00:20 | INFO | mpis.data.buffer | seek | Buffer seeked
+2026-08-03 16:00:20 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 16:00:20 | INFO | mpis.institutional.analyzer | analyze | Starting institutional analysis
+2026-08-03 16:00:20 | INFO | mpis.institutional.analyzer | analyze | Institutional analysis complete
+2026-08-03 16:00:20 | INFO | mpis.institutional.service | from_dataframe | Parsing DataFrame into participant records
+2026-08-03 16:00:20 | INFO | mpis.institutional.service | analyze | Analyzing participant records
+2026-08-03 16:00:20 | INFO | mpis.institutional.analyzer | analyze | Starting institutional analysis
+2026-08-03 16:00:20 | INFO | mpis.institutional.analyzer | analyze | Institutional analysis complete
+2026-08-03 16:00:20 | INFO | mpis.institutional.service | from_csv | Loading CSV file
+2026-08-03 16:00:20 | INFO | mpis.institutional.service | from_dataframe | Parsing DataFrame into participant records
+2026-08-03 16:00:20 | INFO | mpis.institutional.service | analyze | Analyzing participant records
+2026-08-03 16:00:20 | INFO | mpis.institutional.analyzer | analyze | Starting institutional analysis
+2026-08-03 16:00:20 | INFO | mpis.institutional.analyzer | analyze | Institutional analysis complete
+2026-08-03 16:00:20 | INFO | mpis.institutional.service | from_dataframe | Parsing DataFrame into participant records
+2026-08-03 16:00:20 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 16:00:20 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 16:00:20 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 16:00:20 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 16:00:20 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 16:00:20 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 16:00:20 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 16:00:20 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 16:00:20 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 16:00:20 | INFO | mpis.options.service | from_dataframe | Parsing DataFrame into participant OI records
+2026-08-03 16:00:20 | INFO | mpis.options.service | analyze | Analyzing participant OI records
+2026-08-03 16:00:20 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 16:00:20 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 16:00:20 | INFO | mpis.options.oi_analyzer | analyze | Open interest analysis complete
+2026-08-03 16:00:20 | INFO | mpis.options.service | from_csv | Loading CSV file for OI service
+2026-08-03 16:00:20 | INFO | mpis.options.service | from_dataframe | Parsing DataFrame into participant OI records
+2026-08-03 16:00:20 | INFO | mpis.options.service | analyze | Analyzing participant OI records
+2026-08-03 16:00:20 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 16:00:20 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 16:00:20 | INFO | mpis.options.oi_analyzer | analyze | Open interest analysis complete
+2026-08-03 16:00:20 | INFO | mpis.options.service | from_dataframe | Parsing DataFrame into participant OI records
+2026-08-03 16:00:20 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 16:00:20 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 16:00:20 | INFO | mpis.options.service | from_dataframe | Parsing DataFrame into participant OI records
+2026-08-03 16:00:20 | INFO | mpis.options.service | analyze | Analyzing participant OI records
+2026-08-03 16:00:20 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 16:00:20 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 16:00:20 | INFO | mpis.options.oi_analyzer | analyze | Open interest analysis complete
+2026-08-03 16:00:20 | INFO | mpis.options.service | from_csv | Loading CSV file for OI service
+2026-08-03 16:00:20 | INFO | mpis.options.service | from_dataframe | Parsing DataFrame into participant OI records
+2026-08-03 16:00:20 | INFO | mpis.options.service | analyze | Analyzing participant OI records
+2026-08-03 16:00:20 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 16:00:20 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 16:00:20 | INFO | mpis.options.oi_analyzer | analyze | Open interest analysis complete
+2026-08-03 16:00:20 | INFO | mpis.options.service | from_dataframe | Parsing DataFrame into participant OI records
+2026-08-03 16:00:20 | INFO | mpis.options.service | from_dataframe | Parsing DataFrame into participant OI records
+2026-08-03 16:00:20 | INFO | mpis.options.service | analyze | Analyzing participant OI records
+2026-08-03 16:00:20 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 16:00:20 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 16:00:20 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 16:00:20 | INFO | mpis.options.oi_analyzer | analyze | Open interest analysis complete
+2026-08-03 16:00:20 | INFO | mpis.options.service | from_dataframe | Parsing DataFrame into participant OI records
+2026-08-03 16:00:20 | INFO | mpis.options.service | analyze | Analyzing participant OI records
+2026-08-03 16:00:20 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 16:00:20 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 16:00:20 | INFO | mpis.options.oi_analyzer | analyze | Open interest analysis complete
+2026-08-03 16:00:21 | INFO | mpis.data.csv_loader | load | CSV loaded
+2026-08-03 16:00:21 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 16:00:21 | INFO | mpis.data.csv_loader | load | Replay buffer created
+2026-08-03 16:00:21 | INFO | mpis.replay.engine | initialize | Replay engine initialized
+2026-08-03 16:00:21 | INFO | mpis.replay.engine | log_replay_event | Replay event: Replay started
+2026-08-03 16:00:21 | INFO | mpis.replay.engine | log_replay_event | Replay event: Replay paused
+2026-08-03 16:00:21 | INFO | mpis.replay.engine | log_replay_event | Replay event: Replay resumed
+2026-08-03 16:00:21 | INFO | mpis.replay.engine | log_replay_event | Replay event: Replay stopped
+2026-08-03 16:00:21 | INFO | mpis.data.csv_loader | load | CSV loaded
+2026-08-03 16:00:21 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 16:00:21 | INFO | mpis.data.csv_loader | load | Replay buffer created
+2026-08-03 16:00:21 | INFO | mpis.replay.engine | initialize | Replay engine initialized
+2026-08-03 16:00:21 | INFO | mpis.replay.engine | log_replay_event | Replay event: Replay started
+2026-08-03 16:00:21 | INFO | mpis.replay.engine | log_replay_event | Replay event: Replay step
+2026-08-03 16:00:21 | INFO | mpis.data.csv_loader | load | CSV loaded
+2026-08-03 16:00:21 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 16:00:21 | INFO | mpis.data.csv_loader | load | Replay buffer created
+2026-08-03 16:00:21 | INFO | mpis.replay.engine | initialize | Replay engine initialized
+2026-08-03 16:00:21 | INFO | mpis.replay.engine | log_replay_event | Replay event: Replay started
+2026-08-03 16:00:21 | DEBUG | mpis.replay.callbacks | register | Callback registered
+2026-08-03 16:00:21 | INFO | mpis.replay.engine | log_replay_event | Replay event: Replay step
+2026-08-03 16:00:21 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 16:00:21 | INFO | mpis.replay.engine | initialize | Replay engine initialized
+2026-08-03 16:00:21 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 16:00:21 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 16:00:21 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 16:00:21 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 16:00:21 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 16:01:06 | INFO | mpis.data.csv_loader | load | CSV loaded
+2026-08-03 16:01:06 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 16:01:06 | INFO | mpis.data.csv_loader | load | Replay buffer created
+2026-08-03 16:01:06 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 16:01:06 | INFO | mpis.data.buffer | next | Buffer advanced to next candle
+2026-08-03 16:01:06 | INFO | mpis.data.buffer | previous | Buffer moved to previous candle
+2026-08-03 16:01:06 | INFO | mpis.data.buffer | seek | Buffer seeked
+2026-08-03 16:01:06 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 16:01:06 | INFO | mpis.institutional.analyzer | analyze | Starting institutional analysis
+2026-08-03 16:01:06 | INFO | mpis.institutional.analyzer | analyze | Institutional analysis complete
+2026-08-03 16:01:06 | INFO | mpis.institutional.service | from_dataframe | Parsing DataFrame into participant records
+2026-08-03 16:01:06 | INFO | mpis.institutional.service | analyze | Analyzing participant records
+2026-08-03 16:01:06 | INFO | mpis.institutional.analyzer | analyze | Starting institutional analysis
+2026-08-03 16:01:06 | INFO | mpis.institutional.analyzer | analyze | Institutional analysis complete
+2026-08-03 16:01:06 | INFO | mpis.institutional.service | from_csv | Loading CSV file
+2026-08-03 16:01:06 | INFO | mpis.institutional.service | from_dataframe | Parsing DataFrame into participant records
+2026-08-03 16:01:06 | INFO | mpis.institutional.service | analyze | Analyzing participant records
+2026-08-03 16:01:06 | INFO | mpis.institutional.analyzer | analyze | Starting institutional analysis
+2026-08-03 16:01:06 | INFO | mpis.institutional.analyzer | analyze | Institutional analysis complete
+2026-08-03 16:01:06 | INFO | mpis.institutional.service | from_dataframe | Parsing DataFrame into participant records
+2026-08-03 16:01:06 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 16:01:06 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 16:01:06 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 16:01:06 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 16:01:06 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 16:01:06 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 16:01:06 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 16:01:06 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 16:01:06 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 16:01:06 | INFO | mpis.options.service | from_dataframe | Parsing DataFrame into participant OI records
+2026-08-03 16:01:06 | INFO | mpis.options.service | analyze | Analyzing participant OI records
+2026-08-03 16:01:06 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 16:01:06 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 16:01:06 | INFO | mpis.options.oi_analyzer | analyze | Open interest analysis complete
+2026-08-03 16:01:06 | INFO | mpis.options.service | from_csv | Loading CSV file for OI service
+2026-08-03 16:01:06 | INFO | mpis.options.service | from_dataframe | Parsing DataFrame into participant OI records
+2026-08-03 16:01:06 | INFO | mpis.options.service | analyze | Analyzing participant OI records
+2026-08-03 16:01:06 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 16:01:06 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 16:01:06 | INFO | mpis.options.oi_analyzer | analyze | Open interest analysis complete
+2026-08-03 16:01:06 | INFO | mpis.options.service | from_dataframe | Parsing DataFrame into participant OI records
+2026-08-03 16:01:06 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 16:01:06 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 16:01:06 | INFO | mpis.options.service | from_dataframe | Parsing DataFrame into participant OI records
+2026-08-03 16:01:06 | INFO | mpis.options.service | analyze | Analyzing participant OI records
+2026-08-03 16:01:06 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 16:01:06 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 16:01:06 | INFO | mpis.options.oi_analyzer | analyze | Open interest analysis complete
+2026-08-03 16:01:06 | INFO | mpis.options.service | from_csv | Loading CSV file for OI service
+2026-08-03 16:01:06 | INFO | mpis.options.service | from_dataframe | Parsing DataFrame into participant OI records
+2026-08-03 16:01:06 | INFO | mpis.options.service | analyze | Analyzing participant OI records
+2026-08-03 16:01:06 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 16:01:06 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 16:01:06 | INFO | mpis.options.oi_analyzer | analyze | Open interest analysis complete
+2026-08-03 16:01:06 | INFO | mpis.options.service | from_dataframe | Parsing DataFrame into participant OI records
+2026-08-03 16:01:06 | INFO | mpis.options.service | from_dataframe | Parsing DataFrame into participant OI records
+2026-08-03 16:01:06 | INFO | mpis.options.service | analyze | Analyzing participant OI records
+2026-08-03 16:01:06 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 16:01:06 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 16:01:06 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 16:01:06 | INFO | mpis.options.oi_analyzer | analyze | Open interest analysis complete
+2026-08-03 16:01:06 | INFO | mpis.options.service | from_dataframe | Parsing DataFrame into participant OI records
+2026-08-03 16:01:06 | INFO | mpis.options.service | analyze | Analyzing participant OI records
+2026-08-03 16:01:06 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 16:01:06 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 16:01:06 | INFO | mpis.options.oi_analyzer | analyze | Open interest analysis complete
+2026-08-03 16:01:06 | INFO | mpis.data.csv_loader | load | CSV loaded
+2026-08-03 16:01:06 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 16:01:06 | INFO | mpis.data.csv_loader | load | Replay buffer created
+2026-08-03 16:01:06 | INFO | mpis.replay.engine | initialize | Replay engine initialized
+2026-08-03 16:01:06 | INFO | mpis.replay.engine | log_replay_event | Replay event: Replay started
+2026-08-03 16:01:06 | INFO | mpis.replay.engine | log_replay_event | Replay event: Replay paused
+2026-08-03 16:01:06 | INFO | mpis.replay.engine | log_replay_event | Replay event: Replay resumed
+2026-08-03 16:01:06 | INFO | mpis.replay.engine | log_replay_event | Replay event: Replay stopped
+2026-08-03 16:01:06 | INFO | mpis.data.csv_loader | load | CSV loaded
+2026-08-03 16:01:06 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 16:01:06 | INFO | mpis.data.csv_loader | load | Replay buffer created
+2026-08-03 16:01:06 | INFO | mpis.replay.engine | initialize | Replay engine initialized
+2026-08-03 16:01:06 | INFO | mpis.replay.engine | log_replay_event | Replay event: Replay started
+2026-08-03 16:01:06 | INFO | mpis.replay.engine | log_replay_event | Replay event: Replay step
+2026-08-03 16:01:06 | INFO | mpis.data.csv_loader | load | CSV loaded
+2026-08-03 16:01:06 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 16:01:06 | INFO | mpis.data.csv_loader | load | Replay buffer created
+2026-08-03 16:01:06 | INFO | mpis.replay.engine | initialize | Replay engine initialized
+2026-08-03 16:01:06 | INFO | mpis.replay.engine | log_replay_event | Replay event: Replay started
+2026-08-03 16:01:06 | DEBUG | mpis.replay.callbacks | register | Callback registered
+2026-08-03 16:01:06 | INFO | mpis.replay.engine | log_replay_event | Replay event: Replay step
+2026-08-03 16:01:06 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 16:01:06 | INFO | mpis.replay.engine | initialize | Replay engine initialized
+2026-08-03 16:01:06 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 16:01:06 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 16:01:06 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 16:01:06 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 16:01:06 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 16:05:51 | INFO | mpis.data.csv_loader | load | CSV loaded
+2026-08-03 16:05:51 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 16:05:51 | INFO | mpis.data.csv_loader | load | Replay buffer created
+2026-08-03 16:05:51 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 16:05:51 | INFO | mpis.data.buffer | next | Buffer advanced to next candle
+2026-08-03 16:05:51 | INFO | mpis.data.buffer | previous | Buffer moved to previous candle
+2026-08-03 16:05:51 | INFO | mpis.data.buffer | seek | Buffer seeked
+2026-08-03 16:05:51 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 16:05:51 | INFO | mpis.institutional.analyzer | analyze | Starting institutional analysis
+2026-08-03 16:05:51 | INFO | mpis.institutional.analyzer | analyze | Institutional analysis complete
+2026-08-03 16:05:52 | INFO | mpis.institutional.service | from_dataframe | Parsing DataFrame into participant records
+2026-08-03 16:05:52 | INFO | mpis.institutional.service | analyze | Analyzing participant records
+2026-08-03 16:05:52 | INFO | mpis.institutional.analyzer | analyze | Starting institutional analysis
+2026-08-03 16:05:52 | INFO | mpis.institutional.analyzer | analyze | Institutional analysis complete
+2026-08-03 16:05:52 | INFO | mpis.institutional.service | from_csv | Loading CSV file
+2026-08-03 16:05:52 | INFO | mpis.institutional.service | from_dataframe | Parsing DataFrame into participant records
+2026-08-03 16:05:52 | INFO | mpis.institutional.service | analyze | Analyzing participant records
+2026-08-03 16:05:52 | INFO | mpis.institutional.analyzer | analyze | Starting institutional analysis
+2026-08-03 16:05:52 | INFO | mpis.institutional.analyzer | analyze | Institutional analysis complete
+2026-08-03 16:05:52 | INFO | mpis.institutional.service | from_dataframe | Parsing DataFrame into participant records
+2026-08-03 16:05:52 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 16:05:52 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 16:05:52 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 16:05:52 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 16:05:52 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 16:05:52 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 16:05:52 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 16:05:52 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 16:05:52 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 16:05:52 | INFO | mpis.options.service | from_dataframe | Parsing DataFrame into participant OI records
+2026-08-03 16:05:52 | INFO | mpis.options.service | analyze | Analyzing participant OI records
+2026-08-03 16:05:52 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 16:05:52 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 16:05:52 | INFO | mpis.options.oi_analyzer | analyze | Open interest analysis complete
+2026-08-03 16:05:52 | INFO | mpis.options.service | from_csv | Loading CSV file for OI service
+2026-08-03 16:05:52 | INFO | mpis.options.service | from_dataframe | Parsing DataFrame into participant OI records
+2026-08-03 16:05:52 | INFO | mpis.options.service | analyze | Analyzing participant OI records
+2026-08-03 16:05:52 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 16:05:52 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 16:05:52 | INFO | mpis.options.oi_analyzer | analyze | Open interest analysis complete
+2026-08-03 16:05:52 | INFO | mpis.options.service | from_dataframe | Parsing DataFrame into participant OI records
+2026-08-03 16:05:52 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 16:05:52 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 16:05:52 | INFO | mpis.options.service | from_dataframe | Parsing DataFrame into participant OI records
+2026-08-03 16:05:52 | INFO | mpis.options.service | analyze | Analyzing participant OI records
+2026-08-03 16:05:52 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 16:05:52 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 16:05:52 | INFO | mpis.options.oi_analyzer | analyze | Open interest analysis complete
+2026-08-03 16:05:52 | INFO | mpis.options.service | from_csv | Loading CSV file for OI service
+2026-08-03 16:05:52 | INFO | mpis.options.service | from_dataframe | Parsing DataFrame into participant OI records
+2026-08-03 16:05:52 | INFO | mpis.options.service | analyze | Analyzing participant OI records
+2026-08-03 16:05:52 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 16:05:52 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 16:05:52 | INFO | mpis.options.oi_analyzer | analyze | Open interest analysis complete
+2026-08-03 16:05:52 | INFO | mpis.options.service | from_dataframe | Parsing DataFrame into participant OI records
+2026-08-03 16:05:52 | INFO | mpis.options.service | from_dataframe | Parsing DataFrame into participant OI records
+2026-08-03 16:05:52 | INFO | mpis.options.service | analyze | Analyzing participant OI records
+2026-08-03 16:05:52 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 16:05:52 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 16:05:52 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 16:05:52 | INFO | mpis.options.oi_analyzer | analyze | Open interest analysis complete
+2026-08-03 16:05:52 | INFO | mpis.options.service | from_dataframe | Parsing DataFrame into participant OI records
+2026-08-03 16:05:52 | INFO | mpis.options.service | analyze | Analyzing participant OI records
+2026-08-03 16:05:52 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 16:05:52 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 16:05:52 | INFO | mpis.options.oi_analyzer | analyze | Open interest analysis complete
+2026-08-03 16:05:52 | INFO | mpis.data.csv_loader | load | CSV loaded
+2026-08-03 16:05:52 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 16:05:52 | INFO | mpis.data.csv_loader | load | Replay buffer created
+2026-08-03 16:05:52 | INFO | mpis.replay.engine | initialize | Replay engine initialized
+2026-08-03 16:05:52 | INFO | mpis.replay.engine | log_replay_event | Replay event: Replay started
+2026-08-03 16:05:52 | INFO | mpis.replay.engine | log_replay_event | Replay event: Replay paused
+2026-08-03 16:05:52 | INFO | mpis.replay.engine | log_replay_event | Replay event: Replay resumed
+2026-08-03 16:05:52 | INFO | mpis.replay.engine | log_replay_event | Replay event: Replay stopped
+2026-08-03 16:05:52 | INFO | mpis.data.csv_loader | load | CSV loaded
+2026-08-03 16:05:52 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 16:05:52 | INFO | mpis.data.csv_loader | load | Replay buffer created
+2026-08-03 16:05:52 | INFO | mpis.replay.engine | initialize | Replay engine initialized
+2026-08-03 16:05:52 | INFO | mpis.replay.engine | log_replay_event | Replay event: Replay started
+2026-08-03 16:05:52 | INFO | mpis.replay.engine | log_replay_event | Replay event: Replay step
+2026-08-03 16:05:52 | INFO | mpis.data.csv_loader | load | CSV loaded
+2026-08-03 16:05:52 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 16:05:52 | INFO | mpis.data.csv_loader | load | Replay buffer created
+2026-08-03 16:05:52 | INFO | mpis.replay.engine | initialize | Replay engine initialized
+2026-08-03 16:05:52 | INFO | mpis.replay.engine | log_replay_event | Replay event: Replay started
+2026-08-03 16:05:52 | DEBUG | mpis.replay.callbacks | register | Callback registered
+2026-08-03 16:05:52 | INFO | mpis.replay.engine | log_replay_event | Replay event: Replay step
+2026-08-03 16:05:52 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 16:05:52 | INFO | mpis.replay.engine | initialize | Replay engine initialized
+2026-08-03 16:05:52 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 16:05:52 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 16:05:52 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 16:05:52 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 16:05:52 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 16:06:40 | INFO | mpis.data.csv_loader | load | CSV loaded
+2026-08-03 16:06:40 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 16:06:40 | INFO | mpis.data.csv_loader | load | Replay buffer created
+2026-08-03 16:06:40 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 16:06:40 | INFO | mpis.data.buffer | next | Buffer advanced to next candle
+2026-08-03 16:06:40 | INFO | mpis.data.buffer | previous | Buffer moved to previous candle
+2026-08-03 16:06:40 | INFO | mpis.data.buffer | seek | Buffer seeked
+2026-08-03 16:06:40 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 16:06:40 | INFO | mpis.institutional.analyzer | analyze | Starting institutional analysis
+2026-08-03 16:06:40 | INFO | mpis.institutional.analyzer | analyze | Institutional analysis complete
+2026-08-03 16:06:40 | INFO | mpis.institutional.service | from_dataframe | Parsing DataFrame into participant records
+2026-08-03 16:06:40 | INFO | mpis.institutional.service | analyze | Analyzing participant records
+2026-08-03 16:06:40 | INFO | mpis.institutional.analyzer | analyze | Starting institutional analysis
+2026-08-03 16:06:40 | INFO | mpis.institutional.analyzer | analyze | Institutional analysis complete
+2026-08-03 16:06:40 | INFO | mpis.institutional.service | from_csv | Loading CSV file
+2026-08-03 16:06:40 | INFO | mpis.institutional.service | from_dataframe | Parsing DataFrame into participant records
+2026-08-03 16:06:40 | INFO | mpis.institutional.service | analyze | Analyzing participant records
+2026-08-03 16:06:40 | INFO | mpis.institutional.analyzer | analyze | Starting institutional analysis
+2026-08-03 16:06:40 | INFO | mpis.institutional.analyzer | analyze | Institutional analysis complete
+2026-08-03 16:06:40 | INFO | mpis.institutional.service | from_dataframe | Parsing DataFrame into participant records
+2026-08-03 16:06:40 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 16:06:40 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 16:06:40 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 16:06:40 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 16:06:40 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 16:06:40 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 16:06:40 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 16:06:40 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 16:06:40 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 16:06:40 | INFO | mpis.options.service | from_dataframe | Parsing DataFrame into participant OI records
+2026-08-03 16:06:40 | INFO | mpis.options.service | analyze | Analyzing participant OI records
+2026-08-03 16:06:40 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 16:06:40 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 16:06:40 | INFO | mpis.options.oi_analyzer | analyze | Open interest analysis complete
+2026-08-03 16:06:40 | INFO | mpis.options.service | from_csv | Loading CSV file for OI service
+2026-08-03 16:06:40 | INFO | mpis.options.service | from_dataframe | Parsing DataFrame into participant OI records
+2026-08-03 16:06:40 | INFO | mpis.options.service | analyze | Analyzing participant OI records
+2026-08-03 16:06:40 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 16:06:40 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 16:06:40 | INFO | mpis.options.oi_analyzer | analyze | Open interest analysis complete
+2026-08-03 16:06:40 | INFO | mpis.options.service | from_dataframe | Parsing DataFrame into participant OI records
+2026-08-03 16:06:40 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 16:06:40 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 16:06:40 | INFO | mpis.options.service | from_dataframe | Parsing DataFrame into participant OI records
+2026-08-03 16:06:40 | INFO | mpis.options.service | analyze | Analyzing participant OI records
+2026-08-03 16:06:40 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 16:06:40 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 16:06:40 | INFO | mpis.options.oi_analyzer | analyze | Open interest analysis complete
+2026-08-03 16:06:40 | INFO | mpis.options.service | from_csv | Loading CSV file for OI service
+2026-08-03 16:06:40 | INFO | mpis.options.service | from_dataframe | Parsing DataFrame into participant OI records
+2026-08-03 16:06:40 | INFO | mpis.options.service | analyze | Analyzing participant OI records
+2026-08-03 16:06:40 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 16:06:40 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 16:06:40 | INFO | mpis.options.oi_analyzer | analyze | Open interest analysis complete
+2026-08-03 16:06:40 | INFO | mpis.options.service | from_dataframe | Parsing DataFrame into participant OI records
+2026-08-03 16:06:40 | INFO | mpis.options.service | from_dataframe | Parsing DataFrame into participant OI records
+2026-08-03 16:06:40 | INFO | mpis.options.service | analyze | Analyzing participant OI records
+2026-08-03 16:06:40 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 16:06:40 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 16:06:40 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 16:06:40 | INFO | mpis.options.oi_analyzer | analyze | Open interest analysis complete
+2026-08-03 16:06:40 | INFO | mpis.options.service | from_dataframe | Parsing DataFrame into participant OI records
+2026-08-03 16:06:40 | INFO | mpis.options.service | analyze | Analyzing participant OI records
+2026-08-03 16:06:40 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 16:06:40 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 16:06:40 | INFO | mpis.options.oi_analyzer | analyze | Open interest analysis complete
+2026-08-03 16:06:40 | INFO | mpis.data.csv_loader | load | CSV loaded
+2026-08-03 16:06:40 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 16:06:40 | INFO | mpis.data.csv_loader | load | Replay buffer created
+2026-08-03 16:06:40 | INFO | mpis.replay.engine | initialize | Replay engine initialized
+2026-08-03 16:06:40 | INFO | mpis.replay.engine | log_replay_event | Replay event: Replay started
+2026-08-03 16:06:40 | INFO | mpis.replay.engine | log_replay_event | Replay event: Replay paused
+2026-08-03 16:06:40 | INFO | mpis.replay.engine | log_replay_event | Replay event: Replay resumed
+2026-08-03 16:06:40 | INFO | mpis.replay.engine | log_replay_event | Replay event: Replay stopped
+2026-08-03 16:06:40 | INFO | mpis.data.csv_loader | load | CSV loaded
+2026-08-03 16:06:40 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 16:06:40 | INFO | mpis.data.csv_loader | load | Replay buffer created
+2026-08-03 16:06:40 | INFO | mpis.replay.engine | initialize | Replay engine initialized
+2026-08-03 16:06:40 | INFO | mpis.replay.engine | log_replay_event | Replay event: Replay started
+2026-08-03 16:06:40 | INFO | mpis.replay.engine | log_replay_event | Replay event: Replay step
+2026-08-03 16:06:40 | INFO | mpis.data.csv_loader | load | CSV loaded
+2026-08-03 16:06:40 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 16:06:40 | INFO | mpis.data.csv_loader | load | Replay buffer created
+2026-08-03 16:06:40 | INFO | mpis.replay.engine | initialize | Replay engine initialized
+2026-08-03 16:06:40 | INFO | mpis.replay.engine | log_replay_event | Replay event: Replay started
+2026-08-03 16:06:40 | DEBUG | mpis.replay.callbacks | register | Callback registered
+2026-08-03 16:06:40 | INFO | mpis.replay.engine | log_replay_event | Replay event: Replay step
+2026-08-03 16:06:40 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 16:06:40 | INFO | mpis.replay.engine | initialize | Replay engine initialized
+2026-08-03 16:06:40 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 16:06:40 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 16:06:40 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 16:06:40 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 16:06:40 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 16:27:11 | INFO | mpis.data.csv_loader | load | CSV loaded
+2026-08-03 16:27:11 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 16:27:11 | INFO | mpis.data.csv_loader | load | Replay buffer created
+2026-08-03 16:27:11 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 16:27:11 | INFO | mpis.data.buffer | next | Buffer advanced to next candle
+2026-08-03 16:27:11 | INFO | mpis.data.buffer | previous | Buffer moved to previous candle
+2026-08-03 16:27:11 | INFO | mpis.data.buffer | seek | Buffer seeked
+2026-08-03 16:27:11 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 16:27:11 | INFO | mpis.institutional.analyzer | analyze | Starting institutional analysis
+2026-08-03 16:27:11 | INFO | mpis.institutional.analyzer | analyze | Institutional analysis complete
+2026-08-03 16:27:11 | INFO | mpis.institutional.service | from_dataframe | Parsing DataFrame into participant records
+2026-08-03 16:27:11 | INFO | mpis.institutional.service | analyze | Analyzing participant records
+2026-08-03 16:27:11 | INFO | mpis.institutional.analyzer | analyze | Starting institutional analysis
+2026-08-03 16:27:11 | INFO | mpis.institutional.analyzer | analyze | Institutional analysis complete
+2026-08-03 16:27:11 | INFO | mpis.institutional.service | from_csv | Loading CSV file
+2026-08-03 16:27:11 | INFO | mpis.institutional.service | from_dataframe | Parsing DataFrame into participant records
+2026-08-03 16:27:11 | INFO | mpis.institutional.service | analyze | Analyzing participant records
+2026-08-03 16:27:11 | INFO | mpis.institutional.analyzer | analyze | Starting institutional analysis
+2026-08-03 16:27:11 | INFO | mpis.institutional.analyzer | analyze | Institutional analysis complete
+2026-08-03 16:27:11 | INFO | mpis.institutional.service | from_dataframe | Parsing DataFrame into participant records
+2026-08-03 16:27:11 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 16:27:11 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 16:27:11 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 16:27:11 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 16:27:11 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 16:27:11 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 16:27:11 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 16:27:11 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 16:27:11 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 16:27:11 | INFO | mpis.options.service | from_dataframe | Parsing DataFrame into participant OI records
+2026-08-03 16:27:11 | INFO | mpis.options.service | analyze | Analyzing participant OI records
+2026-08-03 16:27:11 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 16:27:11 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 16:27:11 | INFO | mpis.options.oi_analyzer | analyze | Open interest analysis complete
+2026-08-03 16:27:11 | INFO | mpis.options.service | from_csv | Loading CSV file for OI service
+2026-08-03 16:27:11 | INFO | mpis.options.service | from_dataframe | Parsing DataFrame into participant OI records
+2026-08-03 16:27:11 | INFO | mpis.options.service | analyze | Analyzing participant OI records
+2026-08-03 16:27:11 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 16:27:11 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 16:27:11 | INFO | mpis.options.oi_analyzer | analyze | Open interest analysis complete
+2026-08-03 16:27:11 | INFO | mpis.options.service | from_dataframe | Parsing DataFrame into participant OI records
+2026-08-03 16:27:11 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 16:27:11 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 16:27:11 | INFO | mpis.options.service | from_dataframe | Parsing DataFrame into participant OI records
+2026-08-03 16:27:11 | INFO | mpis.options.service | analyze | Analyzing participant OI records
+2026-08-03 16:27:11 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 16:27:11 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 16:27:11 | INFO | mpis.options.oi_analyzer | analyze | Open interest analysis complete
+2026-08-03 16:27:11 | INFO | mpis.options.service | from_csv | Loading CSV file for OI service
+2026-08-03 16:27:11 | INFO | mpis.options.service | from_dataframe | Parsing DataFrame into participant OI records
+2026-08-03 16:27:11 | INFO | mpis.options.service | analyze | Analyzing participant OI records
+2026-08-03 16:27:11 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 16:27:11 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 16:27:11 | INFO | mpis.options.oi_analyzer | analyze | Open interest analysis complete
+2026-08-03 16:27:11 | INFO | mpis.options.service | from_dataframe | Parsing DataFrame into participant OI records
+2026-08-03 16:27:11 | INFO | mpis.options.service | from_dataframe | Parsing DataFrame into participant OI records
+2026-08-03 16:27:11 | INFO | mpis.options.service | analyze | Analyzing participant OI records
+2026-08-03 16:27:11 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 16:27:11 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 16:27:11 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 16:27:11 | INFO | mpis.options.oi_analyzer | analyze | Open interest analysis complete
+2026-08-03 16:27:11 | INFO | mpis.options.service | from_dataframe | Parsing DataFrame into participant OI records
+2026-08-03 16:27:11 | INFO | mpis.options.service | analyze | Analyzing participant OI records
+2026-08-03 16:27:11 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 16:27:11 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 16:27:11 | INFO | mpis.options.oi_analyzer | analyze | Open interest analysis complete
+2026-08-03 16:27:11 | INFO | mpis.data.csv_loader | load | CSV loaded
+2026-08-03 16:27:11 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 16:27:11 | INFO | mpis.data.csv_loader | load | Replay buffer created
+2026-08-03 16:27:11 | INFO | mpis.replay.engine | initialize | Replay engine initialized
+2026-08-03 16:27:11 | INFO | mpis.replay.engine | log_replay_event | Replay event: Replay started
+2026-08-03 16:27:11 | INFO | mpis.replay.engine | log_replay_event | Replay event: Replay paused
+2026-08-03 16:27:11 | INFO | mpis.replay.engine | log_replay_event | Replay event: Replay resumed
+2026-08-03 16:27:11 | INFO | mpis.replay.engine | log_replay_event | Replay event: Replay stopped
+2026-08-03 16:27:11 | INFO | mpis.data.csv_loader | load | CSV loaded
+2026-08-03 16:27:11 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 16:27:11 | INFO | mpis.data.csv_loader | load | Replay buffer created
+2026-08-03 16:27:11 | INFO | mpis.replay.engine | initialize | Replay engine initialized
+2026-08-03 16:27:11 | INFO | mpis.replay.engine | log_replay_event | Replay event: Replay started
+2026-08-03 16:27:11 | INFO | mpis.replay.engine | log_replay_event | Replay event: Replay step
+2026-08-03 16:27:11 | INFO | mpis.data.csv_loader | load | CSV loaded
+2026-08-03 16:27:11 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 16:27:11 | INFO | mpis.data.csv_loader | load | Replay buffer created
+2026-08-03 16:27:11 | INFO | mpis.replay.engine | initialize | Replay engine initialized
+2026-08-03 16:27:11 | INFO | mpis.replay.engine | log_replay_event | Replay event: Replay started
+2026-08-03 16:27:11 | DEBUG | mpis.replay.callbacks | register | Callback registered
+2026-08-03 16:27:11 | INFO | mpis.replay.engine | log_replay_event | Replay event: Replay step
+2026-08-03 16:27:11 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 16:27:11 | INFO | mpis.replay.engine | initialize | Replay engine initialized
+2026-08-03 16:27:11 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 16:27:11 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 16:27:11 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 16:27:11 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 16:27:11 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 17:18:17 | INFO | mpis.data.csv_loader | load | CSV loaded
+2026-08-03 17:18:17 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 17:18:17 | INFO | mpis.data.csv_loader | load | Replay buffer created
+2026-08-03 17:18:17 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 17:18:17 | INFO | mpis.data.buffer | next | Buffer advanced to next candle
+2026-08-03 17:18:17 | INFO | mpis.data.buffer | previous | Buffer moved to previous candle
+2026-08-03 17:18:17 | INFO | mpis.data.buffer | seek | Buffer seeked
+2026-08-03 17:18:17 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 17:18:17 | INFO | mpis.institutional.analyzer | analyze | Starting institutional analysis
+2026-08-03 17:18:17 | INFO | mpis.institutional.analyzer | analyze | Institutional analysis complete
+2026-08-03 17:18:17 | INFO | mpis.institutional.service | from_dataframe | Parsing DataFrame into participant records
+2026-08-03 17:18:17 | INFO | mpis.institutional.service | analyze | Analyzing participant records
+2026-08-03 17:18:17 | INFO | mpis.institutional.analyzer | analyze | Starting institutional analysis
+2026-08-03 17:18:17 | INFO | mpis.institutional.analyzer | analyze | Institutional analysis complete
+2026-08-03 17:18:17 | INFO | mpis.institutional.service | from_csv | Loading CSV file
+2026-08-03 17:18:17 | INFO | mpis.institutional.service | from_dataframe | Parsing DataFrame into participant records
+2026-08-03 17:18:17 | INFO | mpis.institutional.service | analyze | Analyzing participant records
+2026-08-03 17:18:17 | INFO | mpis.institutional.analyzer | analyze | Starting institutional analysis
+2026-08-03 17:18:17 | INFO | mpis.institutional.analyzer | analyze | Institutional analysis complete
+2026-08-03 17:18:17 | INFO | mpis.institutional.service | from_dataframe | Parsing DataFrame into participant records
+2026-08-03 17:18:17 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 17:18:17 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 17:18:17 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 17:18:17 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 17:18:17 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 17:18:17 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 17:18:17 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 17:18:17 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 17:18:17 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 17:18:17 | INFO | mpis.options.service | from_dataframe | Parsing DataFrame into participant OI records
+2026-08-03 17:18:17 | INFO | mpis.options.service | analyze | Analyzing participant OI records
+2026-08-03 17:18:17 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 17:18:17 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 17:18:17 | INFO | mpis.options.oi_analyzer | analyze | Open interest analysis complete
+2026-08-03 17:18:17 | INFO | mpis.options.service | from_csv | Loading CSV file for OI service
+2026-08-03 17:18:17 | INFO | mpis.options.service | from_dataframe | Parsing DataFrame into participant OI records
+2026-08-03 17:18:17 | INFO | mpis.options.service | analyze | Analyzing participant OI records
+2026-08-03 17:18:17 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 17:18:17 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 17:18:17 | INFO | mpis.options.oi_analyzer | analyze | Open interest analysis complete
+2026-08-03 17:18:17 | INFO | mpis.options.service | from_dataframe | Parsing DataFrame into participant OI records
+2026-08-03 17:18:17 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 17:18:17 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 17:18:17 | INFO | mpis.options.service | from_dataframe | Parsing DataFrame into participant OI records
+2026-08-03 17:18:17 | INFO | mpis.options.service | analyze | Analyzing participant OI records
+2026-08-03 17:18:17 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 17:18:17 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 17:18:17 | INFO | mpis.options.oi_analyzer | analyze | Open interest analysis complete
+2026-08-03 17:18:17 | INFO | mpis.options.service | from_csv | Loading CSV file for OI service
+2026-08-03 17:18:17 | INFO | mpis.options.service | from_dataframe | Parsing DataFrame into participant OI records
+2026-08-03 17:18:17 | INFO | mpis.options.service | analyze | Analyzing participant OI records
+2026-08-03 17:18:17 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 17:18:17 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 17:18:17 | INFO | mpis.options.oi_analyzer | analyze | Open interest analysis complete
+2026-08-03 17:18:17 | INFO | mpis.options.service | from_dataframe | Parsing DataFrame into participant OI records
+2026-08-03 17:18:17 | INFO | mpis.options.service | from_dataframe | Parsing DataFrame into participant OI records
+2026-08-03 17:18:17 | INFO | mpis.options.service | analyze | Analyzing participant OI records
+2026-08-03 17:18:17 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 17:18:17 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 17:18:17 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 17:18:17 | INFO | mpis.options.oi_analyzer | analyze | Open interest analysis complete
+2026-08-03 17:18:17 | INFO | mpis.options.service | from_dataframe | Parsing DataFrame into participant OI records
+2026-08-03 17:18:17 | INFO | mpis.options.service | analyze | Analyzing participant OI records
+2026-08-03 17:18:17 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 17:18:17 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 17:18:17 | INFO | mpis.options.oi_analyzer | analyze | Open interest analysis complete
+2026-08-03 17:18:17 | INFO | mpis.data.csv_loader | load | CSV loaded
+2026-08-03 17:18:17 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 17:18:17 | INFO | mpis.data.csv_loader | load | Replay buffer created
+2026-08-03 17:18:17 | INFO | mpis.replay.engine | initialize | Replay engine initialized
+2026-08-03 17:18:17 | INFO | mpis.replay.engine | log_replay_event | Replay event: Replay started
+2026-08-03 17:18:17 | INFO | mpis.replay.engine | log_replay_event | Replay event: Replay paused
+2026-08-03 17:18:17 | INFO | mpis.replay.engine | log_replay_event | Replay event: Replay resumed
+2026-08-03 17:18:17 | INFO | mpis.replay.engine | log_replay_event | Replay event: Replay stopped
+2026-08-03 17:18:17 | INFO | mpis.data.csv_loader | load | CSV loaded
+2026-08-03 17:18:17 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 17:18:17 | INFO | mpis.data.csv_loader | load | Replay buffer created
+2026-08-03 17:18:17 | INFO | mpis.replay.engine | initialize | Replay engine initialized
+2026-08-03 17:18:17 | INFO | mpis.replay.engine | log_replay_event | Replay event: Replay started
+2026-08-03 17:18:17 | INFO | mpis.replay.engine | log_replay_event | Replay event: Replay step
+2026-08-03 17:18:17 | INFO | mpis.data.csv_loader | load | CSV loaded
+2026-08-03 17:18:17 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 17:18:17 | INFO | mpis.data.csv_loader | load | Replay buffer created
+2026-08-03 17:18:17 | INFO | mpis.replay.engine | initialize | Replay engine initialized
+2026-08-03 17:18:17 | INFO | mpis.replay.engine | log_replay_event | Replay event: Replay started
+2026-08-03 17:18:17 | DEBUG | mpis.replay.callbacks | register | Callback registered
+2026-08-03 17:18:17 | INFO | mpis.replay.engine | log_replay_event | Replay event: Replay step
+2026-08-03 17:18:17 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 17:18:17 | INFO | mpis.replay.engine | initialize | Replay engine initialized
+2026-08-03 17:18:17 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 17:18:17 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 17:18:17 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 17:18:17 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 17:18:17 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 17:24:57 | DEBUG | mpis.smc.breaker_block | detect | Detected breaker block from invalidated order block
+2026-08-03 17:24:57 | DEBUG | mpis.smc.mitigation_block | detect | Detected mitigation block with status full
+2026-08-03 17:24:57 | DEBUG | mpis.smc.mitigation_block | detect | Detected mitigation block with status full
+2026-08-03 17:24:57 | INFO | mpis.smc.engine | analyze | SMC engine analyzed 5 candles
+2026-08-03 17:32:41 | DEBUG | mpis.smc.imbalance | detect | Detected bullish imbalance with momentum 1.000
+2026-08-03 17:32:41 | DEBUG | mpis.smc.breaker_block | detect | Detected breaker block from invalidated order block
+2026-08-03 17:32:41 | DEBUG | mpis.smc.mitigation_block | detect | Detected mitigation block with status full
+2026-08-03 17:32:41 | DEBUG | mpis.smc.mitigation_block | detect | Detected mitigation block with status full
+2026-08-03 17:32:41 | INFO | mpis.smc.engine | analyze | SMC engine analyzed 5 candles
+2026-08-03 17:33:22 | DEBUG | mpis.smc.imbalance | detect | Detected bullish imbalance with momentum 1.000
+2026-08-03 17:33:22 | DEBUG | mpis.smc.breaker_block | detect | Detected breaker block from invalidated order block
+2026-08-03 17:33:22 | DEBUG | mpis.smc.mitigation_block | detect | Detected mitigation block with status partial
+2026-08-03 17:33:22 | DEBUG | mpis.smc.mitigation_block | detect | Detected mitigation block with status full
+2026-08-03 17:33:22 | INFO | mpis.smc.engine | analyze | SMC engine analyzed 5 candles
+2026-08-03 17:35:16 | DEBUG | mpis.smc.fvg | detect | Detected bullish FVG with strength 1.000
+2026-08-03 17:35:16 | DEBUG | mpis.smc.fvg | detect | Detected bearish FVG with strength 1.000
+2026-08-03 17:35:16 | DEBUG | mpis.smc.imbalance | detect | Detected bullish imbalance with momentum 1.000
+2026-08-03 17:35:17 | DEBUG | mpis.smc.breaker_block | detect | Detected breaker block from invalidated order block
+2026-08-03 17:35:17 | DEBUG | mpis.smc.mitigation_block | detect | Detected mitigation block with status partial
+2026-08-03 17:35:17 | DEBUG | mpis.smc.fvg | detect | Detected bullish FVG with strength 1.000
+2026-08-03 17:35:17 | DEBUG | mpis.smc.order_block | detect | Detected bullish order block with strength 0.600
+2026-08-03 17:35:17 | DEBUG | mpis.smc.mitigation_block | detect | Detected mitigation block with status full
+2026-08-03 17:35:17 | INFO | mpis.smc.engine | analyze | SMC engine analyzed 5 candles
+2026-08-03 17:36:44 | DEBUG | mpis.smc.fvg | detect | Detected bullish FVG with strength 1.000
+2026-08-03 17:36:44 | DEBUG | mpis.smc.fvg | detect | Detected bearish FVG with strength 1.000
+2026-08-03 17:36:44 | DEBUG | mpis.smc.imbalance | detect | Detected bullish imbalance with momentum 1.000
+2026-08-03 17:36:44 | DEBUG | mpis.smc.order_block | detect | Detected bullish order block with strength 0.386
+2026-08-03 17:36:44 | DEBUG | mpis.smc.breaker_block | detect | Detected breaker block from invalidated order block
+2026-08-03 17:36:44 | DEBUG | mpis.smc.mitigation_block | detect | Detected mitigation block with status partial
+2026-08-03 17:36:44 | DEBUG | mpis.smc.fvg | detect | Detected bullish FVG with strength 1.000
+2026-08-03 17:36:44 | DEBUG | mpis.smc.order_block | detect | Detected bullish order block with strength 0.700
+2026-08-03 17:36:44 | DEBUG | mpis.smc.mitigation_block | detect | Detected mitigation block with status full
+2026-08-03 17:36:44 | INFO | mpis.smc.engine | analyze | SMC engine analyzed 5 candles
+2026-08-03 17:57:04 | DEBUG | mpis.smc.fvg | detect | Detected bullish FVG with strength 1.000
+2026-08-03 17:57:04 | DEBUG | mpis.smc.fvg | detect | Detected bearish FVG with strength 1.000
+2026-08-03 17:57:04 | DEBUG | mpis.smc.fvg | detect | Detected bullish FVG with strength 1.000
+2026-08-03 17:57:04 | DEBUG | mpis.smc.fvg | detect | Detected bearish FVG with strength 0.500
+2026-08-03 17:57:04 | DEBUG | mpis.smc.imbalance | detect | Detected bullish imbalance with momentum 1.000
+2026-08-03 17:57:04 | DEBUG | mpis.smc.order_block | detect | Detected bullish order block with strength 0.386
+2026-08-03 17:57:04 | DEBUG | mpis.smc.breaker_block | detect | Detected breaker block from invalidated order block
+2026-08-03 17:57:04 | DEBUG | mpis.smc.mitigation_block | detect | Detected mitigation block with status partial
+2026-08-03 17:57:04 | DEBUG | mpis.smc.mitigation_block | detect | Detected mitigation block with status full
+2026-08-03 17:57:04 | DEBUG | mpis.smc.fvg | detect | Detected bullish FVG with strength 1.000
+2026-08-03 17:57:04 | DEBUG | mpis.smc.order_block | detect | Detected bullish order block with strength 0.700
+2026-08-03 17:57:04 | DEBUG | mpis.smc.mitigation_block | detect | Detected mitigation block with status full
+2026-08-03 17:57:04 | INFO | mpis.smc.engine | analyze | SMC engine analyzed 5 candles
+2026-08-03 17:57:04 | DEBUG | mpis.smc.mitigation_block | detect | Detected mitigation block with status full
+2026-08-03 17:57:04 | INFO | mpis.smc.engine | analyze | SMC engine analyzed 1 candles
+2026-08-03 17:57:56 | DEBUG | mpis.smc.fvg | detect | Detected bullish FVG with strength 1.000
+2026-08-03 17:57:56 | DEBUG | mpis.smc.fvg | detect | Detected bearish FVG with strength 1.000
+2026-08-03 17:57:56 | DEBUG | mpis.smc.fvg | detect | Detected bullish FVG with strength 1.000
+2026-08-03 17:57:56 | DEBUG | mpis.smc.imbalance | detect | Detected bullish imbalance with momentum 1.000
+2026-08-03 17:57:56 | DEBUG | mpis.smc.imbalance | detect | Detected bearish imbalance with momentum 1.000
+2026-08-03 17:57:56 | DEBUG | mpis.smc.order_block | detect | Detected bullish order block with strength 0.386
+2026-08-03 17:57:56 | DEBUG | mpis.smc.breaker_block | detect | Detected breaker block from invalidated order block
+2026-08-03 17:57:56 | DEBUG | mpis.smc.mitigation_block | detect | Detected mitigation block with status partial
+2026-08-03 17:57:56 | DEBUG | mpis.smc.mitigation_block | detect | Detected mitigation block with status full
+2026-08-03 17:57:56 | DEBUG | mpis.smc.fvg | detect | Detected bullish FVG with strength 1.000
+2026-08-03 17:57:56 | DEBUG | mpis.smc.order_block | detect | Detected bullish order block with strength 0.700
+2026-08-03 17:57:56 | DEBUG | mpis.smc.mitigation_block | detect | Detected mitigation block with status full
+2026-08-03 17:57:56 | INFO | mpis.smc.engine | analyze | SMC engine analyzed 5 candles
+2026-08-03 17:57:56 | INFO | mpis.smc.engine | analyze | SMC engine analyzed 1 candles
+2026-08-03 17:58:17 | DEBUG | mpis.smc.fvg | detect | Detected bullish FVG with strength 1.000
+2026-08-03 17:58:17 | DEBUG | mpis.smc.fvg | detect | Detected bearish FVG with strength 1.000
+2026-08-03 17:58:17 | DEBUG | mpis.smc.fvg | detect | Detected bullish FVG with strength 1.000
+2026-08-03 17:58:17 | DEBUG | mpis.smc.imbalance | detect | Detected bullish imbalance with momentum 1.000
+2026-08-03 17:58:17 | DEBUG | mpis.smc.imbalance | detect | Detected bearish imbalance with momentum 1.000
+2026-08-03 17:58:17 | DEBUG | mpis.smc.order_block | detect | Detected bullish order block with strength 0.386
+2026-08-03 17:58:18 | DEBUG | mpis.smc.breaker_block | detect | Detected breaker block from invalidated order block
+2026-08-03 17:58:18 | DEBUG | mpis.smc.mitigation_block | detect | Detected mitigation block with status partial
+2026-08-03 17:58:18 | DEBUG | mpis.smc.mitigation_block | detect | Detected mitigation block with status full
+2026-08-03 17:58:18 | DEBUG | mpis.smc.fvg | detect | Detected bullish FVG with strength 1.000
+2026-08-03 17:58:18 | DEBUG | mpis.smc.order_block | detect | Detected bullish order block with strength 0.700
+2026-08-03 17:58:18 | DEBUG | mpis.smc.mitigation_block | detect | Detected mitigation block with status full
+2026-08-03 17:58:18 | INFO | mpis.smc.engine | analyze | SMC engine analyzed 5 candles
+2026-08-03 17:58:18 | INFO | mpis.smc.engine | analyze | SMC engine analyzed 1 candles
+2026-08-03 17:58:50 | DEBUG | mpis.smc.fvg | detect | Detected bullish FVG with strength 1.000
+2026-08-03 17:58:50 | DEBUG | mpis.smc.fvg | detect | Detected bearish FVG with strength 1.000
+2026-08-03 17:58:50 | DEBUG | mpis.smc.fvg | detect | Detected bullish FVG with strength 1.000
+2026-08-03 17:58:50 | DEBUG | mpis.smc.imbalance | detect | Detected bullish imbalance with momentum 1.000
+2026-08-03 17:58:50 | DEBUG | mpis.smc.imbalance | detect | Detected bearish imbalance with momentum 1.000
+2026-08-03 17:58:50 | DEBUG | mpis.smc.order_block | detect | Detected bullish order block with strength 0.386
+2026-08-03 17:58:50 | DEBUG | mpis.smc.order_block | detect | Detected bearish order block with strength 0.250
+2026-08-03 17:58:50 | DEBUG | mpis.smc.breaker_block | detect | Detected breaker block from invalidated order block
+2026-08-03 17:58:50 | DEBUG | mpis.smc.mitigation_block | detect | Detected mitigation block with status partial
+2026-08-03 17:58:50 | DEBUG | mpis.smc.mitigation_block | detect | Detected mitigation block with status full
+2026-08-03 17:58:50 | DEBUG | mpis.smc.fvg | detect | Detected bullish FVG with strength 1.000
+2026-08-03 17:58:50 | DEBUG | mpis.smc.order_block | detect | Detected bullish order block with strength 0.700
+2026-08-03 17:58:50 | DEBUG | mpis.smc.mitigation_block | detect | Detected mitigation block with status full
+2026-08-03 17:58:50 | INFO | mpis.smc.engine | analyze | SMC engine analyzed 5 candles
+2026-08-03 17:58:50 | INFO | mpis.smc.engine | analyze | SMC engine analyzed 1 candles
+2026-08-03 17:58:58 | DEBUG | mpis.smc.breaker_block | detect | Detected breaker block from invalidated order block
+2026-08-03 17:58:59 | INFO | mpis.data.csv_loader | load | CSV loaded
+2026-08-03 17:58:59 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 17:58:59 | INFO | mpis.data.csv_loader | load | Replay buffer created
+2026-08-03 17:58:59 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 17:58:59 | INFO | mpis.data.buffer | next | Buffer advanced to next candle
+2026-08-03 17:58:59 | INFO | mpis.data.buffer | previous | Buffer moved to previous candle
+2026-08-03 17:58:59 | INFO | mpis.data.buffer | seek | Buffer seeked
+2026-08-03 17:58:59 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 17:58:59 | DEBUG | mpis.smc.fvg | detect | Detected bullish FVG with strength 1.000
+2026-08-03 17:58:59 | DEBUG | mpis.smc.fvg | detect | Detected bearish FVG with strength 1.000
+2026-08-03 17:58:59 | DEBUG | mpis.smc.fvg | detect | Detected bullish FVG with strength 1.000
+2026-08-03 17:58:59 | DEBUG | mpis.smc.imbalance | detect | Detected bullish imbalance with momentum 1.000
+2026-08-03 17:58:59 | DEBUG | mpis.smc.imbalance | detect | Detected bearish imbalance with momentum 1.000
+2026-08-03 17:58:59 | INFO | mpis.institutional.analyzer | analyze | Starting institutional analysis
+2026-08-03 17:58:59 | INFO | mpis.institutional.analyzer | analyze | Institutional analysis complete
+2026-08-03 17:58:59 | INFO | mpis.institutional.service | from_dataframe | Parsing DataFrame into participant records
+2026-08-03 17:58:59 | INFO | mpis.institutional.service | analyze | Analyzing participant records
+2026-08-03 17:58:59 | INFO | mpis.institutional.analyzer | analyze | Starting institutional analysis
+2026-08-03 17:58:59 | INFO | mpis.institutional.analyzer | analyze | Institutional analysis complete
+2026-08-03 17:58:59 | INFO | mpis.institutional.service | from_csv | Loading CSV file
+2026-08-03 17:58:59 | INFO | mpis.institutional.service | from_dataframe | Parsing DataFrame into participant records
+2026-08-03 17:58:59 | INFO | mpis.institutional.service | analyze | Analyzing participant records
+2026-08-03 17:58:59 | INFO | mpis.institutional.analyzer | analyze | Starting institutional analysis
+2026-08-03 17:58:59 | INFO | mpis.institutional.analyzer | analyze | Institutional analysis complete
+2026-08-03 17:58:59 | INFO | mpis.institutional.service | from_dataframe | Parsing DataFrame into participant records
+2026-08-03 17:58:59 | DEBUG | mpis.smc.mitigation_block | detect | Detected mitigation block with status partial
+2026-08-03 17:58:59 | DEBUG | mpis.smc.mitigation_block | detect | Detected mitigation block with status full
+2026-08-03 17:58:59 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 17:58:59 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 17:58:59 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 17:58:59 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 17:58:59 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 17:58:59 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 17:58:59 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 17:58:59 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 17:58:59 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 17:58:59 | INFO | mpis.options.service | from_dataframe | Parsing DataFrame into participant OI records
+2026-08-03 17:58:59 | INFO | mpis.options.service | analyze | Analyzing participant OI records
+2026-08-03 17:58:59 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 17:58:59 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 17:58:59 | INFO | mpis.options.oi_analyzer | analyze | Open interest analysis complete
+2026-08-03 17:58:59 | INFO | mpis.options.service | from_csv | Loading CSV file for OI service
+2026-08-03 17:58:59 | INFO | mpis.options.service | from_dataframe | Parsing DataFrame into participant OI records
+2026-08-03 17:58:59 | INFO | mpis.options.service | analyze | Analyzing participant OI records
+2026-08-03 17:58:59 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 17:58:59 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 17:58:59 | INFO | mpis.options.oi_analyzer | analyze | Open interest analysis complete
+2026-08-03 17:58:59 | INFO | mpis.options.service | from_dataframe | Parsing DataFrame into participant OI records
+2026-08-03 17:58:59 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 17:58:59 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 17:58:59 | INFO | mpis.options.service | from_dataframe | Parsing DataFrame into participant OI records
+2026-08-03 17:58:59 | INFO | mpis.options.service | analyze | Analyzing participant OI records
+2026-08-03 17:58:59 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 17:58:59 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 17:58:59 | INFO | mpis.options.oi_analyzer | analyze | Open interest analysis complete
+2026-08-03 17:58:59 | INFO | mpis.options.service | from_csv | Loading CSV file for OI service
+2026-08-03 17:58:59 | INFO | mpis.options.service | from_dataframe | Parsing DataFrame into participant OI records
+2026-08-03 17:58:59 | INFO | mpis.options.service | analyze | Analyzing participant OI records
+2026-08-03 17:58:59 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 17:58:59 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 17:58:59 | INFO | mpis.options.oi_analyzer | analyze | Open interest analysis complete
+2026-08-03 17:58:59 | INFO | mpis.options.service | from_dataframe | Parsing DataFrame into participant OI records
+2026-08-03 17:58:59 | INFO | mpis.options.service | from_dataframe | Parsing DataFrame into participant OI records
+2026-08-03 17:58:59 | INFO | mpis.options.service | analyze | Analyzing participant OI records
+2026-08-03 17:58:59 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 17:58:59 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 17:58:59 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 17:58:59 | INFO | mpis.options.oi_analyzer | analyze | Open interest analysis complete
+2026-08-03 17:58:59 | INFO | mpis.options.service | from_dataframe | Parsing DataFrame into participant OI records
+2026-08-03 17:58:59 | INFO | mpis.options.service | analyze | Analyzing participant OI records
+2026-08-03 17:58:59 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 17:58:59 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 17:58:59 | INFO | mpis.options.oi_analyzer | analyze | Open interest analysis complete
+2026-08-03 17:58:59 | DEBUG | mpis.smc.order_block | detect | Detected bullish order block with strength 0.386
+2026-08-03 17:58:59 | DEBUG | mpis.smc.order_block | detect | Detected bearish order block with strength 0.250
+2026-08-03 17:58:59 | INFO | mpis.data.csv_loader | load | CSV loaded
+2026-08-03 17:58:59 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 17:58:59 | INFO | mpis.data.csv_loader | load | Replay buffer created
+2026-08-03 17:58:59 | INFO | mpis.replay.engine | initialize | Replay engine initialized
+2026-08-03 17:58:59 | INFO | mpis.replay.engine | log_replay_event | Replay event: Replay started
+2026-08-03 17:58:59 | INFO | mpis.replay.engine | log_replay_event | Replay event: Replay paused
+2026-08-03 17:58:59 | INFO | mpis.replay.engine | log_replay_event | Replay event: Replay resumed
+2026-08-03 17:58:59 | INFO | mpis.replay.engine | log_replay_event | Replay event: Replay stopped
+2026-08-03 17:58:59 | INFO | mpis.data.csv_loader | load | CSV loaded
+2026-08-03 17:58:59 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 17:58:59 | INFO | mpis.data.csv_loader | load | Replay buffer created
+2026-08-03 17:58:59 | INFO | mpis.replay.engine | initialize | Replay engine initialized
+2026-08-03 17:58:59 | INFO | mpis.replay.engine | log_replay_event | Replay event: Replay started
+2026-08-03 17:58:59 | INFO | mpis.replay.engine | log_replay_event | Replay event: Replay step
+2026-08-03 17:58:59 | INFO | mpis.data.csv_loader | load | CSV loaded
+2026-08-03 17:58:59 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 17:58:59 | INFO | mpis.data.csv_loader | load | Replay buffer created
+2026-08-03 17:58:59 | INFO | mpis.replay.engine | initialize | Replay engine initialized
+2026-08-03 17:58:59 | INFO | mpis.replay.engine | log_replay_event | Replay event: Replay started
+2026-08-03 17:58:59 | DEBUG | mpis.replay.callbacks | register | Callback registered
+2026-08-03 17:58:59 | INFO | mpis.replay.engine | log_replay_event | Replay event: Replay step
+2026-08-03 17:59:00 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 17:59:00 | INFO | mpis.replay.engine | initialize | Replay engine initialized
+2026-08-03 17:59:00 | DEBUG | mpis.smc.fvg | detect | Detected bullish FVG with strength 1.000
+2026-08-03 17:59:00 | DEBUG | mpis.smc.order_block | detect | Detected bullish order block with strength 0.700
+2026-08-03 17:59:00 | DEBUG | mpis.smc.mitigation_block | detect | Detected mitigation block with status full
+2026-08-03 17:59:00 | INFO | mpis.smc.engine | analyze | SMC engine analyzed 5 candles
+2026-08-03 17:59:00 | INFO | mpis.smc.engine | analyze | SMC engine analyzed 1 candles
+2026-08-03 17:59:00 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 17:59:00 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 17:59:00 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 17:59:00 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 17:59:00 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 18:02:38 | DEBUG | mpis.smc.breaker_block | detect | Detected breaker block from invalidated order block
+2026-08-03 18:02:38 | INFO | mpis.data.csv_loader | load | CSV loaded
+2026-08-03 18:02:38 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 18:02:38 | INFO | mpis.data.csv_loader | load | Replay buffer created
+2026-08-03 18:02:38 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 18:02:38 | INFO | mpis.data.buffer | next | Buffer advanced to next candle
+2026-08-03 18:02:38 | INFO | mpis.data.buffer | previous | Buffer moved to previous candle
+2026-08-03 18:02:38 | INFO | mpis.data.buffer | seek | Buffer seeked
+2026-08-03 18:02:38 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 18:02:38 | DEBUG | mpis.smc.fvg | detect | Detected bullish FVG with strength 1.000
+2026-08-03 18:02:38 | DEBUG | mpis.smc.fvg | detect | Detected bearish FVG with strength 1.000
+2026-08-03 18:02:38 | DEBUG | mpis.smc.fvg | detect | Detected bullish FVG with strength 1.000
+2026-08-03 18:02:38 | DEBUG | mpis.smc.imbalance | detect | Detected bullish imbalance with momentum 1.000
+2026-08-03 18:02:38 | DEBUG | mpis.smc.imbalance | detect | Detected bearish imbalance with momentum 1.000
+2026-08-03 18:02:38 | INFO | mpis.institutional.analyzer | analyze | Starting institutional analysis
+2026-08-03 18:02:38 | INFO | mpis.institutional.analyzer | analyze | Institutional analysis complete
+2026-08-03 18:02:38 | INFO | mpis.institutional.service | from_dataframe | Parsing DataFrame into participant records
+2026-08-03 18:02:38 | INFO | mpis.institutional.service | analyze | Analyzing participant records
+2026-08-03 18:02:38 | INFO | mpis.institutional.analyzer | analyze | Starting institutional analysis
+2026-08-03 18:02:38 | INFO | mpis.institutional.analyzer | analyze | Institutional analysis complete
+2026-08-03 18:02:38 | INFO | mpis.institutional.service | from_csv | Loading CSV file
+2026-08-03 18:02:38 | INFO | mpis.institutional.service | from_dataframe | Parsing DataFrame into participant records
+2026-08-03 18:02:38 | INFO | mpis.institutional.service | analyze | Analyzing participant records
+2026-08-03 18:02:38 | INFO | mpis.institutional.analyzer | analyze | Starting institutional analysis
+2026-08-03 18:02:38 | INFO | mpis.institutional.analyzer | analyze | Institutional analysis complete
+2026-08-03 18:02:38 | INFO | mpis.institutional.service | from_dataframe | Parsing DataFrame into participant records
+2026-08-03 18:02:38 | DEBUG | mpis.smc.mitigation_block | detect | Detected mitigation block with status partial
+2026-08-03 18:02:38 | DEBUG | mpis.smc.mitigation_block | detect | Detected mitigation block with status full
+2026-08-03 18:02:38 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 18:02:38 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 18:02:38 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 18:02:38 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 18:02:38 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 18:02:38 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 18:02:38 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 18:02:38 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 18:02:38 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 18:02:38 | INFO | mpis.options.service | from_dataframe | Parsing DataFrame into participant OI records
+2026-08-03 18:02:38 | INFO | mpis.options.service | analyze | Analyzing participant OI records
+2026-08-03 18:02:38 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 18:02:38 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 18:02:38 | INFO | mpis.options.oi_analyzer | analyze | Open interest analysis complete
+2026-08-03 18:02:38 | INFO | mpis.options.service | from_csv | Loading CSV file for OI service
+2026-08-03 18:02:38 | INFO | mpis.options.service | from_dataframe | Parsing DataFrame into participant OI records
+2026-08-03 18:02:38 | INFO | mpis.options.service | analyze | Analyzing participant OI records
+2026-08-03 18:02:38 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 18:02:38 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 18:02:38 | INFO | mpis.options.oi_analyzer | analyze | Open interest analysis complete
+2026-08-03 18:02:38 | INFO | mpis.options.service | from_dataframe | Parsing DataFrame into participant OI records
+2026-08-03 18:02:38 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 18:02:38 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 18:02:38 | INFO | mpis.options.service | from_dataframe | Parsing DataFrame into participant OI records
+2026-08-03 18:02:38 | INFO | mpis.options.service | analyze | Analyzing participant OI records
+2026-08-03 18:02:38 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 18:02:38 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 18:02:38 | INFO | mpis.options.oi_analyzer | analyze | Open interest analysis complete
+2026-08-03 18:02:38 | INFO | mpis.options.service | from_csv | Loading CSV file for OI service
+2026-08-03 18:02:38 | INFO | mpis.options.service | from_dataframe | Parsing DataFrame into participant OI records
+2026-08-03 18:02:38 | INFO | mpis.options.service | analyze | Analyzing participant OI records
+2026-08-03 18:02:38 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 18:02:38 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 18:02:38 | INFO | mpis.options.oi_analyzer | analyze | Open interest analysis complete
+2026-08-03 18:02:38 | INFO | mpis.options.service | from_dataframe | Parsing DataFrame into participant OI records
+2026-08-03 18:02:38 | INFO | mpis.options.service | from_dataframe | Parsing DataFrame into participant OI records
+2026-08-03 18:02:38 | INFO | mpis.options.service | analyze | Analyzing participant OI records
+2026-08-03 18:02:38 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 18:02:38 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 18:02:38 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 18:02:38 | INFO | mpis.options.oi_analyzer | analyze | Open interest analysis complete
+2026-08-03 18:02:38 | INFO | mpis.options.service | from_dataframe | Parsing DataFrame into participant OI records
+2026-08-03 18:02:38 | INFO | mpis.options.service | analyze | Analyzing participant OI records
+2026-08-03 18:02:38 | DEBUG | mpis.options.oi_scoring | compute_participant_scores | Participant score computed
+2026-08-03 18:02:38 | INFO | mpis.options.oi_scoring | aggregate_signal | Open interest signal aggregated
+2026-08-03 18:02:38 | INFO | mpis.options.oi_analyzer | analyze | Open interest analysis complete
+2026-08-03 18:02:38 | DEBUG | mpis.smc.order_block | detect | Detected bullish order block with strength 0.386
+2026-08-03 18:02:38 | DEBUG | mpis.smc.order_block | detect | Detected bearish order block with strength 0.250
+2026-08-03 18:02:38 | INFO | mpis.data.csv_loader | load | CSV loaded
+2026-08-03 18:02:38 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 18:02:38 | INFO | mpis.data.csv_loader | load | Replay buffer created
+2026-08-03 18:02:38 | INFO | mpis.replay.engine | initialize | Replay engine initialized
+2026-08-03 18:02:38 | INFO | mpis.replay.engine | log_replay_event | Replay event: Replay started
+2026-08-03 18:02:38 | INFO | mpis.replay.engine | log_replay_event | Replay event: Replay paused
+2026-08-03 18:02:38 | INFO | mpis.replay.engine | log_replay_event | Replay event: Replay resumed
+2026-08-03 18:02:38 | INFO | mpis.replay.engine | log_replay_event | Replay event: Replay stopped
+2026-08-03 18:02:38 | INFO | mpis.data.csv_loader | load | CSV loaded
+2026-08-03 18:02:38 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 18:02:38 | INFO | mpis.data.csv_loader | load | Replay buffer created
+2026-08-03 18:02:38 | INFO | mpis.replay.engine | initialize | Replay engine initialized
+2026-08-03 18:02:38 | INFO | mpis.replay.engine | log_replay_event | Replay event: Replay started
+2026-08-03 18:02:38 | INFO | mpis.replay.engine | log_replay_event | Replay event: Replay step
+2026-08-03 18:02:38 | INFO | mpis.data.csv_loader | load | CSV loaded
+2026-08-03 18:02:38 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 18:02:38 | INFO | mpis.data.csv_loader | load | Replay buffer created
+2026-08-03 18:02:38 | INFO | mpis.replay.engine | initialize | Replay engine initialized
+2026-08-03 18:02:38 | INFO | mpis.replay.engine | log_replay_event | Replay event: Replay started
+2026-08-03 18:02:38 | DEBUG | mpis.replay.callbacks | register | Callback registered
+2026-08-03 18:02:38 | INFO | mpis.replay.engine | log_replay_event | Replay event: Replay step
+2026-08-03 18:02:38 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 18:02:38 | INFO | mpis.replay.engine | initialize | Replay engine initialized
+2026-08-03 18:02:38 | DEBUG | mpis.smc.fvg | detect | Detected bullish FVG with strength 1.000
+2026-08-03 18:02:38 | DEBUG | mpis.smc.order_block | detect | Detected bullish order block with strength 0.700
+2026-08-03 18:02:38 | DEBUG | mpis.smc.mitigation_block | detect | Detected mitigation block with status full
+2026-08-03 18:02:38 | INFO | mpis.smc.engine | analyze | SMC engine analyzed 5 candles
+2026-08-03 18:02:38 | INFO | mpis.smc.engine | analyze | SMC engine analyzed 1 candles
+2026-08-03 18:02:38 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 18:02:38 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 18:02:38 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 18:02:38 | INFO | mpis.data.buffer | __post_init__ | Buffer created
+2026-08-03 18:02:38 | INFO | mpis.data.buffer | __post_init__ | Buffer created
